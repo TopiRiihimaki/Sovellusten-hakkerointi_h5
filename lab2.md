@@ -114,7 +114,7 @@ FLAG{Tero-d75ee66af0a68663f15539ec0f46e3b1}
 
 
 
-# Toinen tapa jolla ratkaisin
+# Toinen tapa jolla ratkaisin (TARKISTA ENNEN PALAUTUSTA!!!!!!)
 
 ```
 
