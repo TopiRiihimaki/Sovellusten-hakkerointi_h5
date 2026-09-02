@@ -77,6 +77,9 @@ Dump of assembler code for function _start:
 End of assembler dump.
 
 ```
+
+<img width="827" height="519" alt="Screenshot_2026-09-02_13-19-05" src="https://github.com/user-attachments/assets/b5238c9b-104a-48b5-aff8-3f4d0ded1fb8" />
+
 main-funktion assemblysta pystyin näkemään, että ohjelma lukee ensin käyttäjän syötteen scanf-funktiolla. Tämän jälkeen syötettä verrataan strcmp-funktiolla. strcmp:hän annettua arvoa testataan, minkä perusteella ohjelma päättää, käytetäänkö oikean vai väärän salasanan "reaktiota".
 
 Laitoin sitten
