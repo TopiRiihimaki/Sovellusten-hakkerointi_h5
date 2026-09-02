@@ -1,3 +1,5 @@
+## Koodi
+
 #include <stdio.h>
 
 void buggy_function(int *arr, int size) {
@@ -11,5 +13,6 @@ int main() {
     buggy_function(numbers, 5); // Virheellinen koko
     return 0;
 }
+### Ratkaisu
 
 Tämä voitaisiin korjata sillä, että muuttaisimme ehtoa täten: i < size, koska silloin se ei ylittyisi.
